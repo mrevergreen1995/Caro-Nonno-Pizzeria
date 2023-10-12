@@ -7,7 +7,7 @@ yeast
 salt
 21.1g
 olive
-10.5g
+10.5GG
 
 add more pizza
 add some meats bruh
